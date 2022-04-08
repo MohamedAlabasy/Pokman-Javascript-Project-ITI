@@ -1,4 +1,4 @@
-<h1 align="center"> First Project Javascript (Pokman) </h1>
+<h1 align="center"> First Task Javascript (Pokman) </h1>
 
 <pre align="center">The task is to make this ball move in all directions of the screen using playing arrows,  
 when it hits one side of the screen it goes back inside again,  
